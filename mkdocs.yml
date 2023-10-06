@@ -1,6 +1,6 @@
 ---
-site_name: Enabling Hybrid Work with ThousandEyes
-site_description: Enabling Hybrid Work with ThousandEyes
+site_name: Collaboration - Technical Marketing Engineering
+site_description: Enabling Hybrid Work with Webex and ThousandEyes 
 site_author: Omer Ilyas
 copyright: Omer Ilyas - Technical Marketing Engineer - oilyas@cisco.com
 theme:
@@ -34,8 +34,8 @@ extra_css:
 plugins:
   - search
   - with-pdf:
-      cover_title: Roadshow-WebexAmplify
-      cover_subtitle: Enabling Hybrid Work with ThousandEyes
+      cover_title: WEBEX Amplified
+      cover_subtitle: Enabling Hybrid Work with Webex and ThousandEyes
       cover_logo: assets/white_logo.png
 markdown_extensions:
   - md_in_html
