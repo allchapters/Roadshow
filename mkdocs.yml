@@ -2,7 +2,7 @@
 site_name: Enabling Hybrid Work with ThousandEyes
 site_description: Enabling Hybrid Work with ThousandEyes
 site_author: Omer Ilyas
-copyright: Copyright &copy; 2023 Cisco
+copyright: Omer Ilyas - Technical Marketing Engineer - oilyas@cisco.com
 theme:
   name: material
   features:
